@@ -1,1 +1,1 @@
-# Scrimba-Landing-PAge
+# Scrimba-Landing-Page
